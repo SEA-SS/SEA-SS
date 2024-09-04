@@ -2,21 +2,20 @@
 🔭 I’m currently working on:  
 - Health & Fitness Tracker Project  
 - Spring Boot-based Backend Systems  
-<br><br>
+<br>
 👯 I’m looking to collaborate on:  
-- Backend Development with Spring Boot  
+- Backend Development 
 - DevOps and Ops Workshops  
-<br><br>
+<br>
 🤝 I’m looking for help with:  
-- Optimizing Backend Systems  
-- Secure Voting System Implementation  
-<br><br>
+- Optimizing Backend Systems   
+<br>
 🌱 I’m currently learning:  
 - Node.js with Express.js  
 - Docker and Kubernetes  
-<br><br>
+<br>
 💬 Ask me about:  
-- Spring Boot Development  
+- Backend Development  
 - Fitness and Strength Training  
 
 
