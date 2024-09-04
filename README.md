@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on:  <br>    - Health & Fitness Tracker Project  <br>    - Spring Boot-based Backend Systems  <br>    - DSA Practice and LeetCode Challenges<br><br>👯 I’m looking to collaborate on:  <br>    - Backend Development with Spring Boot  <br>    - Node.js with Express.js Projects  <br>    - Full Stack Development with React  <br>    - Database Management and Optimization  <br>    - DevOps and Ops Workshops<br><br>🤝 I’m looking for help with:  <br>    - Optimizing Backend Systems  <br>    - Industry Best Practices in Spring Boot  <br>    - Advanced React Techniques  <br>    - Secure Voting System Implementation  <br>    - Real-time Result Display in Web Applications<br><br>🌱 I’m currently learning:  <br>    - Node.js with Express.js  <br>    - PostgreSQL Advanced Features  <br>    - Docker and Kubernetes  <br>    - Java for Competitive Programming  <br>    - DevOps Tools and Practices<br><br>💬 Ask me about:  <br>    - Spring Boot Development  <br>    - CRUD Operations in Java  <br>    - Fitness and Strength Training  <br>    - Full Stack Development  <br>    - Data Structures and Algorithms<br><br>⚡ Fun fact:  <br>    - I love diving deep into backend systems, and I enjoy balancing it out with my passion for fitness and strength training!<br>
+🔭 I’m currently working on:
+Health & Fitness Tracker Project
+Spring Boot-based Backend Systems
+👯 I’m looking to collaborate on:
+Backend Development with Spring Boot
+DevOps and Ops Workshops
+🤝 I’m looking for help with:
+Optimizing Backend Systems
+Secure Voting System Implementation
+🌱 I’m currently learning:
+Node.js with Express.js
+Docker and Kubernetes
+💬 Ask me about:
+Spring Boot Development
+Fitness and Strength Training
 
 
 ## 🌐 Socials:
