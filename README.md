@@ -1,19 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on:
-Health & Fitness Tracker Project
-Spring Boot-based Backend Systems
-👯 I’m looking to collaborate on:
-Backend Development with Spring Boot
-DevOps and Ops Workshops
-🤝 I’m looking for help with:
-Optimizing Backend Systems
-Secure Voting System Implementation
-🌱 I’m currently learning:
-Node.js with Express.js
-Docker and Kubernetes
-💬 Ask me about:
-Spring Boot Development
-Fitness and Strength Training
+🔭 I’m currently working on:  
+- Health & Fitness Tracker Project  
+- Spring Boot-based Backend Systems  
+<br><br>
+👯 I’m looking to collaborate on:  
+- Backend Development with Spring Boot  
+- DevOps and Ops Workshops  
+<br><br>
+🤝 I’m looking for help with:  
+- Optimizing Backend Systems  
+- Secure Voting System Implementation  
+<br><br>
+🌱 I’m currently learning:  
+- Node.js with Express.js  
+- Docker and Kubernetes  
+<br><br>
+💬 Ask me about:  
+- Spring Boot Development  
+- Fitness and Strength Training  
+
 
 
 ## 🌐 Socials:
