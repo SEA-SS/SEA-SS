@@ -15,6 +15,7 @@
 <p><strong>🤝 I’m looking for help with:</strong></p>
 <ul>
   <li>Optimizing Backend Systems</li>
+  <li></li>
 </ul>
 
 <p><strong>🌱 I’m currently learning:</strong></p>
