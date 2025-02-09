@@ -20,7 +20,6 @@
 <p><strong>🌱 I’m currently learning:</strong></p>
 <ul>
   <li>Node.js with Express.js</li>
-  <li>Docker and Kubernetes</li>
 </ul>
 
 <p><strong>💬 Ask me about:</strong></p>
