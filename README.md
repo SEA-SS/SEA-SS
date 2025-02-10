@@ -18,7 +18,7 @@
   <li>Developing new Workspace</li>
 </ul>
 
-<p><strong>🌱 I’m currently learning:</strong></p>
+<p><strong>🌱 I’m currently learning :</strong></p>
 <ul>
   <li>Node.js with Express.js</li>
 </ul>
