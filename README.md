@@ -1,4 +1,4 @@
-h<h1>💫 About Me:</h1>
+<h1>💫 About Me:</h1>
 
 <p><strong>🔭 I’m currently working on:</strong></p>
 <ul>
